@@ -1,0 +1,17 @@
+USER NAME 	PASSWORD
+
+worker		123  -  for worker
+owner		456  -  for owner
+
+Change this initialize details in make csv py file
+
+Also change the menu or initalize the menu in the csv make py file
+
+And for the owner menu 
+for the check profits and display analysis this code work for the particulcalr november month you can changes this code by using input
+as a path of a particular month csv file like "F:\CAFE_PROJECT\CAFE_PROJECT\CAFE_February_2024.csv" - for this two function changes this  code
+
+For change the path - comments are also avilable
+
+
+OR - PASTE THIS FOLDER IN F DRIVE SO PATH WILL BE SAME
